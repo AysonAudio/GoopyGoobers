@@ -1,0 +1,8 @@
+{
+    "name": "Input",
+    "rootNamespace": "Input",
+    "references": [
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:e6b02509211a40799c14314a26f6d60a"
+    ]
+}
